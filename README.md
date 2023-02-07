@@ -1,0 +1,2 @@
+# 7-DoF-Collaborative-Robot-for-Pick-and-Place-KUKA-iibr-Solidworks-Python-ROS-Gazebo-Rviz-
+Created a 3D model of the robot &amp; exported it’s URDF using Solidworks; assigned frames (DH parameters); studied the Workspace reach. Computed the Homogeneous transformation &amp; the Jacobian matrix wherein validated the FK &amp; IK using python scripts. Integrated controllers using MoveIt and prepared a ROS package to perform pick and place operations.
